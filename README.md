@@ -1,5 +1,3 @@
-# binary
-
 import cv2
 import os
 from cvzone.HandTrackingModule import HandDetector
@@ -8,8 +6,6 @@ from cvzone.HandTrackingModule import HandDetector
 #variable
 width,height = 1200,720
 folderPath = "picture"
-
-
 
 #camera setup
 cap = cv2.VideoCapture(0)
