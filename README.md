@@ -1,3 +1,3 @@
 # to run this file 
 install openCV, cv.zone and (mediapipe , if issue persist)
-run the py file inside of the "HAND gesture ppt" folder
+run the py file "hand ppt" inside of the "HAND gesture ppt" folder
