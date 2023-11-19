@@ -23,4 +23,7 @@ To exit the slideshow, press 'q'.
 
 Further modifications like adjusting the brightness, zooming into the picture, pointer option and ink(drawing) option could be implemented. The total control of the presentation could be controlled by hand gestures.
 
+# Working Video
+https://drive.google.com/file/d/1_aTyDZm9X_kqMERq64poRnw_uD_nsf39/view?usp=sharing
+
 
