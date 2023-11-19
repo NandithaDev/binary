@@ -21,4 +21,6 @@ The slideshow is displayed with a live webcam feed in the corner.
 
 To exit the slideshow, press 'q'.
 
+Further modifications like adjusting the brightness, zooming into the picture, pointer option and ink(drawing) option could be implemented. The total control of the presentation could be controlled by hand gestures.
+
 
