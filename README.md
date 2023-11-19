@@ -5,6 +5,7 @@ run the py file "hand ppt" inside of the "HAND gesture ppt" folder
 # Gesture Controls
 Raise one finger (thumb) to go to the previous image (left gesture).
 Raise the pinky finger to go to the next image (right gesture).
+The gestures are to be made while the hand is above the face line (green)
 
 
 
